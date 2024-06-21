@@ -6,12 +6,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&pause=1000&color=8DA5FA&center=true&vCenter=true&random=false&width=435&lines=I'm+a;Technology+Enthusiast;Full-stack+Developer;UI/UX Designing" alt="Technology Enthusiast | Full-stack Developer | UI/UX Designing" /></a>
 </div>-->
 
+<h1 align="center">About me</h1>
 
- # About me
-  <p align="justify">
-    I am passionate about leveraging technology to solve complex problems. My expertise spans multiple programming languages and frameworks, making me adept at full-stack development and UI/UX Designing. A proven leader and team player, I am committed to driving innovative projects and continually expanding my technical skill set.
-  
-  </p>
+<p align="center" align="center">
+  I am passionate about leveraging technology to solve complex problems. My expertise spans multiple programming languages and frameworks, making me adept at full-stack development and UI/UX Designing. A proven leader and team player, I am committed to driving innovative projects and continually expanding my technical skill set.
+</p>
+
+
 
 <!--
 <center>
