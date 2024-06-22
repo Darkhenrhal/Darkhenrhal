@@ -11,7 +11,22 @@
 <p align="center" align="center">
   I am passionate about leveraging technology to solve complex problems. My expertise spans multiple programming languages and frameworks, making me adept at full-stack development and UI/UX Designing. A proven leader and team player, I am committed to driving innovative projects and continually expanding my technical skill set.
 </p>
+###
 
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+
+###
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=CBACF9&text_color=ACBDF9&hide_border=false&username=darkhenrhal" height="200" alt="languages graph"  />
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=darkhenrhal&show_icons=true&locale=en&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200"  />-->
+</div>
+
+###
 
 
 <!--
