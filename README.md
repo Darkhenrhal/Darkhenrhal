@@ -11,59 +11,112 @@
 <p align="center" align="center">
   I am passionate about leveraging technology to solve complex problems. My expertise spans multiple programming languages and frameworks, making me adept at full-stack development and UI/UX Designing. A proven leader and team player, I am committed to driving innovative projects and continually expanding my technical skill set.
 </p>
-###
+<div>
+    <h2 align="center">
+    My Technical Skills 
+  </h2>
+<div>
+  <h4 align="center"> Programming Languages</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,kotlin,py,c,php,r"/>
+  </a>
+  </p>
+  <h4 align="center"> Frameworks</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
+  </a> 
+  </p>
+  <h4 align="center"> Database</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+  </a>
+  </p>
+    <h4 align="center">Front-end</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,tailwind,css"/>
+  </a>
+  </p>
+  <h4 align="center">Version Control</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+  </a>
+  </p>
+  <h4 align="center">Tools</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,maven,nodejs,gradle,linux,maven,figma,ps,"/>
+  </a>
+  </p>
+    
+</div>
 
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
-###
+<h2 align="center">
+  Github Statistics 
+</h2>
+
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=CBACF9&text_color=ACBDF9&hide_border=false&username=darkhenrhal" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=CBACF9&text_color=ACBDF9&hide_border=true&border_radius=10&username=darkhenrhal" height="200" alt="languages graph"  />
   
   
   <img src="https://github-readme-stats.vercel.app/api?username=darkhenrhal&show_icons=true&locale=en&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200"  />-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200"  />
 </div>
 
-###
-
-
-<!--
-<center>
-  <h1>My stats</h1>
-</center>
-
-
-<p align="left">
-  <a href="https://twitter.com/zsfdfsdf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sfsdf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-
  
+</div>
 
-## Support
+<div>
+   <h2 align="center">Say hi to me...</h2>
+   <h3 align="center">
+    
+  From   <a href="https://www.linkedin.com/in/sandeepa-sineth"><img src="https://skillicons.dev/icons?i=linkedin" height="20"/> LinkedIn</a> or check my <a href="http://sandeepasineth.vercel.app/">Portfolio</a>  
+  
+    
+  </h3> 
+</div>
 
-<p>
-  <a href="https://www.buymeacoffee.com/sineth2140g">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sineth2140g" />
-  </a>
+  
+<div>
+   <h2 align="center">Support Me ...</h2>
+   <p align="center">
+        Why I Need Your Support...?
+Your support helps me fund my next big project, cover the costs of materials, and dedicate more time to creating innovative solutions. With your help, I can continue to develop cutting-edge applications and contribute to the ever-evolving field of Computer Science. Every "coffee" you buy me goes a long way in keeping the creativity flowing and the dreams alive.
+   </p>
+  
+  </p>
+  
 </p>
-
-## GitHub Stats
+</div>
+ 
 
 <p align="center">
- 
+
+  <a href="https://www.buymeacoffee.com/sineth2140g">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sineth2140g" />
+  </a>
 </p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkhenrhal&show_icons=false&locale=en&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="300" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api?username=darkhenrhal&show_icons=true&locale=en&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="300" width="500" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="300" width="500" />-->
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
+    
+
+</p>
+  
+
+
 
 
 
