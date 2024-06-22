@@ -63,11 +63,11 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=CBACF9&text_color=ACBDF9&hide_border=true&border_radius=10&username=darkhenrhal" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=CBACF9&text_color=ACBDF9&hide_border=true&border_radius=10&username=darkhenrhal" height="200" width="500" alt="languages graph"  />
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=darkhenrhal&show_icons=true&locale=en&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=darkhenrhal&show_icons=true&locale=en&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhenrhal&icons=true&theme=algolia&title_color=CBACF9&text_color=ACBDF9&border_radius=10&hide_border=true&icon_color=5b3df2" alt="darkhenrhal" height="200" width="500"  />
 </div>
 
  
@@ -105,7 +105,6 @@ Your support helps me fund my next big project, cover the costs of materials, an
 </p>
 
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
     <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
     <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
     <img src="https://drive.google.com/uc?export=view&id=16XeA2oV8aLqgo4yvEHSox_76aJ2sgFX3"/>
