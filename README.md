@@ -18,37 +18,37 @@
 <div>
   <h4 align="center"> Programming Languages</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,kotlin,py,c,php,r"/>
   </a>
   </p>
   <h4 align="center"> Frameworks</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
   </a> 
   </p>
   <h4 align="center"> Database</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
   </a>
   </p>
     <h4 align="center">Front-end</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,tailwind,css"/>
   </a>
   </p>
   <h4 align="center">Version Control</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github"/>
   </a>
   </p>
   <h4 align="center">Tools</h4>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,maven,nodejs,gradle,linux,maven,figma,ps,"/>
   </a>
   </p>
