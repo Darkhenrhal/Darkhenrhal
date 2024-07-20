@@ -49,7 +49,7 @@
   <h4 align="center">Tools</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,maven,nodejs,gradle,linux,maven,figma,ps,"/>
+    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,nodejs,gradle,linux,maven,figma,ps,"/>
   </a>
   </p>
     
