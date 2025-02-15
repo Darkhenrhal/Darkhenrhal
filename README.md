@@ -22,10 +22,10 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,kotlin,py,c,php,r"/>
   </a>
   </p>
-  <h4 align="center"> Frameworks</h4>
+  <h4 align="center"> Back-end</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,nextjs"/>
   </a> 
   </p>
   <h4 align="center"> Database</h4>
@@ -37,7 +37,7 @@
     <h4 align="center">Front-end</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,tailwind,css"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,html,tailwind,CSS,sass"/>
   </a>
   </p>
   <h4 align="center">Version Control</h4>
@@ -46,10 +46,17 @@
     <img src="https://skillicons.dev/icons?i=git,github"/>
   </a>
   </p>
+  <h4 align="center">Other Technologies</h4>
+  <p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=selenium,redis,docker,gradle,linux,"/>
+  </a>
+  </p>
+  </p>
   <h4 align="center">Tools</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,nodejs,gradle,linux,maven,figma,ps,"/>
+    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,linux,figma,ps,"/>
   </a>
   </p>
     
