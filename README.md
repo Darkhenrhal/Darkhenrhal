@@ -22,6 +22,12 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,kotlin,py,c,php,r"/>
   </a>
   </p>
+  <h4 align="center">Front-end</h4>
+  <p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,html,tailwind,css,sass"/>
+  </a>
+  </p>
   <h4 align="center"> Back-end</h4>
   <p align="center">
   <a>
@@ -32,12 +38,6 @@
   <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-  </a>
-  </p>
-    <h4 align="center">Front-end</h4>
-  <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,html,tailwind,css,sass"/>
   </a>
   </p>
   <h4 align="center">Version Control</h4>
@@ -56,7 +56,7 @@
   <h4 align="center">Tools</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,linux,figma,ps,"/>
+    <img src="https://skillicons.dev/icons?i=postman,docker,androidstudio,visualstudio,figma,ps,"/>
   </a>
   </p>
     
