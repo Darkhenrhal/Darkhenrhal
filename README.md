@@ -37,7 +37,7 @@
     <h4 align="center">Front-end</h4>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,html,tailwind,CSS,sass"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,html,tailwind,css,sass"/>
   </a>
   </p>
   <h4 align="center">Version Control</h4>
