@@ -1,6 +1,7 @@
 <div align= "center">
 <!--   <img src="https://drive.google.com/uc?export=view&id=1Du5ikn7eP6M8NefU6JnEdEZeOhVltBBO" alt="Image Description"/> -->
-  <img src="https://drive.google.com/uc?export=view&id=1bHocwwopy3TVva-NzCMfgCSjJcPl0FTt" alt="Sandeepa Sineth">
+  <img src="https://drive.google.com/uc?export=view&id=1amNfnvqOV7UPoC3AWaayJFqtaulqTGTV" alt="Sandeepa Sineth">
+ 
 </div>
 
 <!--<div align= "center">
